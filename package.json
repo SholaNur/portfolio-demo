@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SholaNur/portfolio-demo.git"
+  },
+  "keywords": [],
+  "author": "Shola Nurlanovagit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SholaNur/portfolio-demo/issues"
+  },
+  "homepage": "https://github.com/SholaNur/portfolio-demo#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
