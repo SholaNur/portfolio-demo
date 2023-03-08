@@ -2,9 +2,10 @@
   "name": "portfolio-demo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "source": "src/pages/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,8 @@
   "homepage": "https://github.com/SholaNur/portfolio-demo#readme",
   "dependencies": {
     "parcel": "^2.8.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3"
   }
 }
